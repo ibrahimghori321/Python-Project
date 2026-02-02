@@ -1,8 +1,7 @@
-# -----------------------------------------------------------
-#  PYTHON ASSIGNMENT – NESTED LIST QUESTIONS (SOLVED)
-#  All 25 Questions Solved in One File
-#  Prepared for GitHub Upload
-# -----------------------------------------------------------
+# ----
+#  PYTHON ASSIGNMENT
+#  All 25 Questions Solved by Ibrahim Ghori
+----
 
 
 print("\nQ1: Print every element of nested list")
